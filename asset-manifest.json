@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GridSquares/static/css/main.dbe68db2.chunk.css",
+    "main.js": "/GridSquares/static/js/main.d3a1c7fc.chunk.js",
+    "main.js.map": "/GridSquares/static/js/main.d3a1c7fc.chunk.js.map",
+    "runtime-main.js": "/GridSquares/static/js/runtime-main.0fdb86b5.js",
+    "runtime-main.js.map": "/GridSquares/static/js/runtime-main.0fdb86b5.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/GridSquares/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b4e63540.chunk.js": "/GridSquares/static/js/2.b4e63540.chunk.js",
+    "static/js/2.b4e63540.chunk.js.map": "/GridSquares/static/js/2.b4e63540.chunk.js.map",
+    "index.html": "/GridSquares/index.html",
+    "precache-manifest.086c22da365d2c963401c7691ef582db.js": "/GridSquares/precache-manifest.086c22da365d2c963401c7691ef582db.js",
+    "service-worker.js": "/GridSquares/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/GridSquares/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.dbe68db2.chunk.css.map": "/GridSquares/static/css/main.dbe68db2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fdb86b5.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b4e63540.chunk.js",
+    "static/css/main.dbe68db2.chunk.css",
+    "static/js/main.d3a1c7fc.chunk.js"
+  ]
+}
